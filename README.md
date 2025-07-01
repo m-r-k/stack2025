@@ -2,4 +2,4 @@ This is a collection of the llm evaluation tools presented at the International 
 
 ## Tools
 
-The tools will be added after the publications of the conference proceedings.
+The tools will be added here after the publication of the conference proceedings.
